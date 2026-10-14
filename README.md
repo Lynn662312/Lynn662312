@@ -24,6 +24,8 @@ I enjoy building practical applications that connect AI, backend services, datab
 
 I use AI-assisted coding tools as part of my workflow, while focusing on understanding, reviewing, testing, and integrating the code into a complete application.
 
+Beyond the technology itself, I care about ethical, human-centered design and hope to build products that make a meaningful difference in people's everyday lives. I also enjoy challenging myself to learn foreign languages, which has sparked an interest in natural language processing (NLP).
+
 ## Technical Skills
 
 | Area | Technologies |
@@ -92,8 +94,7 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
         <h3>Save Solar</h3>
         <p><strong>Collaborative project · MAIC</strong><br>
         Clean energy challenge</p>
-        <p><a href="https://www.maicnexus.com/en/tracks">MAIC tracks</a><br>
-        <a href="https://github.com/HiIamGaryee/save-solar">Team repository</a></p>
+        <p><a href="https://save-solar.vercel.app/">Live deployment</a></p>
       </td>
       <td valign="top">
         <p>Supports customer onboarding, solar recommendations, bill and site-evidence review, and operational workflows. My documented contribution includes REST API and database integration, resolving backend issues, and deployment/setup work.</p>
@@ -150,11 +151,11 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
 
 <div align="center">
   <a href="https://github.com/Lynn662312">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lynn662312&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=github_dark" height="165" alt="GitHub statistics">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lynn662312&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=1F1B2E&amp;title_color=C4B5FD&amp;text_color=E9D5FF&amp;icon_color=A78BFA" height="165" alt="GitHub statistics in a lavender purple theme">
   </a>
   <br>
   <a href="https://github.com/Lynn662312">
-    <img src="https://ghchart.rshah.org/42D392/Lynn662312" width="100%" alt="GitHub contribution activity heatmap">
+    <img src="https://ghchart.rshah.org/C4B5FD/Lynn662312" width="100%" alt="GitHub contribution activity heatmap in lavender purple">
   </a>
 </div>
 
@@ -164,4 +165,4 @@ Applied machine learning, dependable LLM application patterns, and production-mi
 
 ## Contact
 
-Portfolio: [lynn662312.vercel.app](https://lynn662312.vercel.app/) · GitHub: [@Lynn662312](https://github.com/Lynn662312)
+Portfolio: [lynn662312.vercel.app](https://lynn662312.vercel.app/) · LinkedIn: [linkedin.com/in/jiaying662312](https://linkedin.com/in/jiaying662312) · Email: [jiaying662312@gmail.com](mailto:jiaying662312@gmail.com) · GitHub: [@Lynn662312](https://github.com/Lynn662312)
