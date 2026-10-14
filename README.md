@@ -11,6 +11,12 @@ Taylor's University · Malaysia</p>
 <a href="https://github.com/Lynn662312">
   <img src="https://img.shields.io/badge/GitHub-Lynn662312-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile">
 </a>
+<a href="https://linkedin.com/in/jiaying662312">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn">
+</a>
+<a href="mailto:jiaying662312@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email me">
+</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=20&amp;duration=3500&amp;pause=1200&amp;color=238636&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+%26+Machine+Learning;Backend+%26+API+Engineering;Turning+ideas+into+deployed+applications" alt="AI and machine learning · Backend and API engineering · Turning ideas into deployed applications">
 
@@ -165,4 +171,4 @@ Applied machine learning, dependable LLM application patterns, and production-mi
 
 ## Contact
 
-Portfolio: [lynn662312.vercel.app](https://lynn662312.vercel.app/) · LinkedIn: [linkedin.com/in/jiaying662312](https://linkedin.com/in/jiaying662312) · Email: [jiaying662312@gmail.com](mailto:jiaying662312@gmail.com) · GitHub: [@Lynn662312](https://github.com/Lynn662312)
+For project links and more about me, visit my [portfolio](https://lynn662312.vercel.app/).
