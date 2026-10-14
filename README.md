@@ -28,23 +28,12 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
 
 | Area | Technologies |
 | --- | --- |
-| **Programming** | Python · Java · TypeScript · JavaScript · SQL |
-| **Backend & APIs** | FastAPI · Pydantic · REST APIs · API integration |
-| **AI & Machine Learning** | Gemini · LLM API integration · scikit-learn · NumPy · Matplotlib · Logistic Regression · SVM · model evaluation |
-| **Data & Cloud Services** | PostgreSQL · Supabase · Firebase Auth & Firestore · Cloudinary |
-| **Web & Mobile** | React · Streamlit · Vite · Tailwind CSS · Capacitor |
-| **Tools & Deployment** | Git · GitHub · Vercel · Render · Firebase Hosting |
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
-</p>
+| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"> SQL |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"> Pydantic · REST APIs · API integration |
+| **AI & Machine Learning** | <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"> NumPy · Matplotlib · Logistic Regression · SVM · LLM API integration · model evaluation |
+| **Data & Cloud Services** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase Auth and Firestore"> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&amp;logo=cloudinary&amp;logoColor=white" alt="Cloudinary"> |
+| **Web & Mobile** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&amp;logo=capacitor&amp;logoColor=white" alt="Capacitor"> |
+| **Tools & Deployment** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&amp;logo=render&amp;logoColor=black" alt="Render"> <img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase Hosting"> |
 
 ## Featured Projects
 
@@ -63,8 +52,7 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
         Taylor's Venue Top 3 (Track 1)<br>
         Inter-university finalist</p>
         <p><a href="https://ampwise.vercel.app/">Live demo</a><br>
-        <a href="https://github.com/Lynn662312/AmpWise">Repository</a><br>
-        <a href="https://github.com/Lynn662312/AmpWise/commit/60a7a0f1be09450e7c09e1ac75a1c5246ed3333a">My feature work</a></p>
+        <a href="https://github.com/Lynn662312/AmpWise">Repository</a></p>
       </td>
       <td valign="top">
         <p>EV charging operations platform that forecasts demand and helps operators prioritize charger issues. I contributed to frontend/backend integration, FastAPI, Firestore connectivity, and deployment, plus mobile layout and operator workflow improvements, including saved what-if runs and demo reset. The LightGBM forecasting model was developed by a teammate.</p>
@@ -81,11 +69,10 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
     <tr>
       <td valign="top">
         <h3>S.O.S — Source of Safety</h3>
-        <p><strong>Hackathon project · Dev3Pack</strong><br>
+        <p><strong>Dev3Pack hackathon project</strong><br>
         Disaster-response and AI application</p>
         <p><a href="https://sos-0aae.onrender.com/">Live demo</a><br>
-        <a href="https://github.com/Lynn662312/sos">Repository</a><br>
-        <a href="https://github.com/Lynn662312/sos/commits/main/?author=Lynn662312">My commits</a></p>
+        <a href="https://github.com/Lynn662312/sos">Repository</a></p>
       </td>
       <td valign="top">
         <p>Helps foreigners in Japan act on disaster alerts. It ingests Japan Meteorological Agency feeds, uses Gemini to translate alerts and extract emergency actions, and offers voice instructions with ElevenLabs. The prototype also explores alert credibility and severity checks. SHA-256/IPFS records and optional Solana Devnet provenance are a separate prototype flow, not part of the deployed alerts endpoint.</p>
@@ -103,10 +90,10 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
     <tr>
       <td valign="top">
         <h3>Save Solar</h3>
-        <p><strong>Collaborative project</strong><br>
-        Customer-to-operations solar platform</p>
-        <p><a href="https://github.com/HiIamGaryee/save-solar">Team repository</a><br>
-        <a href="https://github.com/HiIamGaryee/save-solar/commit/3ec41b65ee5e7b05b0d20e49514c57831d2434fb">My merged REST API work</a></p>
+        <p><strong>Collaborative project · MAIC</strong><br>
+        Clean energy challenge</p>
+        <p><a href="https://www.maicnexus.com/en/tracks">MAIC tracks</a><br>
+        <a href="https://github.com/HiIamGaryee/save-solar">Team repository</a></p>
       </td>
       <td valign="top">
         <p>Supports customer onboarding, solar recommendations, bill and site-evidence review, and operational workflows. My documented contribution includes REST API and database integration, resolving backend issues, and deployment/setup work.</p>
@@ -143,8 +130,7 @@ I use AI-assisted coding tools as part of my workflow, while focusing on underst
         <h3>Sports Buddy</h3>
         <p><strong>Collaborative project · RevenueCat Shipaton 2026</strong></p>
         <p><a href="https://sportbuddy-4d596.web.app/">Live demo</a><br>
-        <a href="https://github.com/HiIamGaryee/sports-buddy">Team repository</a><br>
-        <a href="https://github.com/HiIamGaryee/sports-buddy/commit/f43b134827cab8cd2c539858dda75fc7314b1e0c">My recap/profile work</a></p>
+        <a href="https://github.com/HiIamGaryee/sports-buddy">Team repository</a></p>
       </td>
       <td valign="top">
         <p>Mobile-first platform for finding compatible sports partners, joining activities, and coordinating sessions. The team app includes matching, chat, activity planning, QR attendance, and subscriptions. My documented work includes mobile-release contributions and a monthly recap/profile improvement.</p>
