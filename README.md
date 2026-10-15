@@ -64,11 +64,14 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
       </td>
       <td valign="top">
         <p>EV charging operations platform that forecasts demand and helps operators prioritize charger issues. I contributed to frontend/backend integration, FastAPI, Firestore connectivity, and deployment, plus mobile layout and operator workflow improvements, including saved what-if runs and demo reset. The LightGBM forecasting model was developed by a teammate.</p>
-        <p><strong>Stack</strong><br>
+        <p><strong>Repository languages</strong><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook">
+        </p>
+        <p><strong>Stack</strong><br>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
           <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase Firestore">
           <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM model developed by a teammate">
         </p>
@@ -84,8 +87,10 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
       </td>
       <td valign="top">
         <p>Helps foreigners in Japan act on disaster alerts. It ingests Japan Meteorological Agency feeds, uses Gemini to translate alerts and extract emergency actions, and offers voice instructions with ElevenLabs. The prototype also explores alert credibility and severity checks. SHA-256/IPFS records and optional Solana Devnet provenance are a separate prototype flow, not part of the deployed alerts endpoint.</p>
-        <p><strong>Stack</strong><br>
+        <p><strong>Repository language</strong><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+        </p>
+        <p><strong>Stack</strong><br>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
           <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
           <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&amp;logo=elevenlabs&amp;logoColor=white" alt="ElevenLabs">
@@ -104,8 +109,14 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
       </td>
       <td valign="top">
         <p>Supports customer onboarding, solar recommendations, bill and site-evidence review, and operational workflows. My documented contribution includes REST API and database integration, resolving backend issues, and deployment/setup work.</p>
-        <p><strong>Stack</strong><br>
+        <p><strong>Repository languages</strong><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML">
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        </p>
+        <p><strong>Stack</strong><br>
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
           <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
           <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
@@ -122,9 +133,11 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
       </td>
       <td valign="top">
         <p>An evolving, storybook-style social world for plushies. The current app includes plushy profiles, diaries, connections, discovery and friend requests, customizable rooms, guestbooks, travel journals, and letters. This describes the substantially updated personal application, not the original hackathon prototype.</p>
+        <p><strong>Project language</strong><br>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        </p>
         <p><strong>Stack</strong><br>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
           <img src="https://img.shields.io/badge/Firebase%20Auth%20%26%20Firestore-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
           <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&amp;logo=cloudinary&amp;logoColor=white" alt="Cloudinary">
           <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
@@ -141,9 +154,13 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
       </td>
       <td valign="top">
         <p>Mobile-first platform for finding compatible sports partners, joining activities, and coordinating sessions. The team app includes matching, chat, activity planning, QR attendance, and subscriptions. My documented work includes mobile-release contributions and a monthly recap/profile improvement.</p>
+        <p><strong>Repository languages</strong><br>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+        </p>
         <p><strong>Stack</strong><br>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase">
           <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&amp;logo=capacitor&amp;logoColor=white" alt="Capacitor">
           <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&amp;logo=revenuecat&amp;logoColor=white" alt="RevenueCat">
@@ -157,9 +174,12 @@ Beyond the technology itself, I care about ethical, human-centered design and ho
 
 <div align="center">
   <a href="https://github.com/Lynn662312">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lynn662312&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=1F1B2E&amp;title_color=C4B5FD&amp;text_color=E9D5FF&amp;icon_color=A78BFA" height="165" alt="GitHub statistics in a lavender purple theme">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lynn662312&amp;custom_title=Build%20Log&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;border_radius=16&amp;bg_color=0D1117&amp;title_color=E9D5FF&amp;text_color=F8FAFC&amp;icon_color=C4B5FD&amp;border_color=8B5CF6" width="49%" alt="Build Log GitHub statistics on a dark background with high-contrast lavender text">
   </a>
-  <br>
+  <a href="https://github.com/Lynn662312">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lynn662312&amp;layout=donut&amp;langs_count=5&amp;custom_title=Languages%20in%20My%20Repos&amp;hide_border=true&amp;border_radius=16&amp;bg_color=0D1117&amp;title_color=E9D5FF&amp;text_color=F8FAFC&amp;icon_color=C4B5FD&amp;border_color=8B5CF6" width="49%" alt="Languages in my public GitHub repositories in a lavender donut chart on a dark background">
+  </a>
+  <p><strong>MY CONTRIBUTION RHYTHM</strong></p>
   <a href="https://github.com/Lynn662312">
     <img src="https://ghchart.rshah.org/C4B5FD/Lynn662312" width="100%" alt="GitHub contribution activity heatmap in lavender purple">
   </a>
